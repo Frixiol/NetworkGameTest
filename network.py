@@ -1,6 +1,6 @@
 import socket
 import pickle
-from player import Player
+from player import Player #i dunno why but this need to be here in the exe but not in the ide wtf ? 
 
 class Network:
     def __init__(self):
